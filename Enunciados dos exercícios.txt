@@ -1,30 +1,14 @@
 <<<<<<< HEAD
 URI Online Judge | 1000
-Hello World!
-
-Bem-vindo ao URI Online Judge!
-
-O seu primeiro programa em qualquer linguagem de programação normalmente é o "Hello World!". Neste primeiro problema tudo o que você precisa fazer é imprimir esta mensagem na tela.
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 URI Online Judge | 1001
 Extremamente Básico
-
-Timelimit: 1
-Leia 2 valores inteiros e armazene-os nas variáveis A e B. Efetue a soma de A e B atribuindo o seu resultado na variável X. Imprima X conforme exemplo apresentado abaixo. Não apresente mensagem alguma além daquilo que está sendo especificado e não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 URI Online Judge | 1002
 Área do Círculo
-
-Timelimit: 1
-A fórmula para calcular a área de uma circunferência é: area = π . raio2. Considerando para este problema que π = 3.14159:
-
-- Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando por π.
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 URI Online Judge | 1003
 Soma Simples
-
-Timelimit: 1
-Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a soma entre elas e atribua à variável SOMA. A seguir escrever o valor desta variável.
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 URI Online Judge | 1004
 Produto Simples
