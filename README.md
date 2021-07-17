@@ -1,14 +1,12 @@
-# URI - exercícios resolvidos
+# URI Online - solved
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Inajara/URI-resolvidos/blob/master/LICENSE) 
 
-# Sobre o projeto
+# About project
 
-Listas de exercícios resolvidos por mim no URI Online.
-Expansão contínua.
+Solved exercises from URI Online
 
-# Linguagens utilizadas
-- JS / Java / C / Python / PHP
+# Languages
+- JavaScript / Java / C/C++ / Python / PHP
 
-# Autora
-
+# Author:
 Inajara Silva Lemos
