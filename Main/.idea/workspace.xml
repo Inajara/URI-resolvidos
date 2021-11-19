@@ -1,62 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a5ba8ccf-2afc-49dd-91e5-f4c761e2ac21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1000.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1000.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1001.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1002.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1002.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1003.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1003.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1004.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1004.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1005.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1005.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1006.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1006.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1007.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1007.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1008.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1008.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1009.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1009.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1010.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1010.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1011.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1011.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1012.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1012.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1013.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1013.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1014.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1014.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1015.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1015.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1016.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1016.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1017.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1017.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1018.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1018.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1019.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1019.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1035.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1035.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1037.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1037.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1040.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1040.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1041.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1041.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1042.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1042.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1044.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1044.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1045.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1045.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1046.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1046.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1047.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1047.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1048.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1048.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1049.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1049.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1052.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1052.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1059.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1059.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1060.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1060.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1064.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1064.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1066.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1066.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1067.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1067.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1070.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1070.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1072.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1072.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1073.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1073.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1095.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1095.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1096.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1096.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1172.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1172.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1173.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1173.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1174.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1174.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1175.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1175.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1177.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1177.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main1180.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main1180.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Main/Main2344.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/Main2344.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main2/.idea/Main2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Main2/.idea/Main2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Main2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main4/stdin" beforeDir="false" afterPath="$PROJECT_DIR$/../Main4/stdin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -98,5 +49,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
