@@ -1,0 +1,15 @@
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1006\bin\Debug\net6.0\1006.exe
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1006\bin\Debug\net6.0\1006.deps.json
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1006\bin\Debug\net6.0\1006.runtimeconfig.json
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1006\bin\Debug\net6.0\1006.dll
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1006\bin\Debug\net6.0\ref\1006.dll
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1006\bin\Debug\net6.0\1006.pdb
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1006\obj\Debug\net6.0\1006.csproj.AssemblyReference.cache
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1006\obj\Debug\net6.0\1006.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1006\obj\Debug\net6.0\1006.AssemblyInfoInputs.cache
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1006\obj\Debug\net6.0\1006.AssemblyInfo.cs
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1006\obj\Debug\net6.0\1006.csproj.CoreCompileInputs.cache
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1006\obj\Debug\net6.0\1006.dll
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1006\obj\Debug\net6.0\ref\1006.dll
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1006\obj\Debug\net6.0\1006.pdb
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1006\obj\Debug\net6.0\1006.genruntimeconfig.cache

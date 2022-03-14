@@ -3,12 +3,5 @@
 
 # Sobre o projeto
 
-Listas de exercícios resolvidos por mim no URI Online.
+Listas de exercícios resolvidos por mim no URI Online/Beecrowd.
 Expansão contínua.
-
-# Linguagens utilizadas
-- JS / Java / C / Python / PHP
-
-# Autora
-
-Inajara Silva Lemos
