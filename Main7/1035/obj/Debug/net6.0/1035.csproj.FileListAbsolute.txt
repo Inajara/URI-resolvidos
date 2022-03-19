@@ -1,0 +1,15 @@
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1035\bin\Debug\net6.0\1035.exe
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1035\bin\Debug\net6.0\1035.deps.json
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1035\bin\Debug\net6.0\1035.runtimeconfig.json
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1035\bin\Debug\net6.0\1035.dll
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1035\bin\Debug\net6.0\ref\1035.dll
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1035\bin\Debug\net6.0\1035.pdb
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1035\obj\Debug\net6.0\1035.csproj.AssemblyReference.cache
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1035\obj\Debug\net6.0\1035.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1035\obj\Debug\net6.0\1035.AssemblyInfoInputs.cache
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1035\obj\Debug\net6.0\1035.AssemblyInfo.cs
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1035\obj\Debug\net6.0\1035.csproj.CoreCompileInputs.cache
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1035\obj\Debug\net6.0\1035.dll
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1035\obj\Debug\net6.0\ref\1035.dll
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1035\obj\Debug\net6.0\1035.pdb
+E:\Arquivos e Programas\Códigos e projetos\URI-resolvidos\Main7\1035\obj\Debug\net6.0\1035.genruntimeconfig.cache
