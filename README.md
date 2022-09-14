@@ -26,41 +26,16 @@ Os códigos estão rodando corretamente na plataforma.
     <img align="center" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
+  <!-- C/C++ -->
+  <a href="https://github.com/Inajara/URI-resolvidos/tree/master/C">
+    <img align="center" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  </a>
+  <a href="https://github.com/Inajara/URI-resolvidos/tree/master/C++">
+    <img align="center" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  </a>
 </p><br>
-
-<h3>📚 Códigos nas Linguagens</h3>
-
-<!-- C# -->
-<details>
-  <summary><span>C#</span></summary>
-  <div>
-    <h4>Problemas em C#</h4>
-  </div>
-</details>
-
-<!-- Java -->
-<details>
-  <summary><span>Java</span></summary>
-  <div>
-    <h4>Problemas em Java</h4>
-  </div>
-</details>
-
-<!-- JavaScript -->
-<details>
-  <summary><span>JavaScript</span></summary>
-  <div>
-    <h4>Problemas em JavaScript</h4>
-  </div>
-</details>
-
-<!-- Python -->
-<details>
-  <summary><span>Python</span></summary>
-  <div>
-    <h4>Problemas em Python</h4>
-  </div>
-</details>
 
 ##
 <!--License session-->
