@@ -4,3 +4,4 @@ obj
 .idea
 out
 .fake
+venv
