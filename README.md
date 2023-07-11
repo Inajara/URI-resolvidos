@@ -35,6 +35,11 @@ Os códigos estão rodando corretamente na plataforma.
     <img align="center" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   </a>
+  <!-- SQL -->
+  <a href="https://github.com/Inajara/URI-resolvidos/tree/master/SQL">
+    <img align="center" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  </a>
 </p><br>
 
 ##
